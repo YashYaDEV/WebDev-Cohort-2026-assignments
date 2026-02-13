@@ -1,0 +1,5 @@
+# ignore IDE folder
+.idea/
+
+# ignore node modules if any
+node_modules/
