@@ -27,3 +27,6 @@ Simple table border styling
 Author : Yash Rao
 License:
 This project is created for educational submission and evaluation purposes.
+
+
+Screenshot.png <img width="2560" height="1440" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/0185931d-8126-4065-b05f-88224408b94c" />
